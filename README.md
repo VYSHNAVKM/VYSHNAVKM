@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/vyshnav_k_m" target="blank"><img src="https://img.shields.io/twitter/follow/vyshnav_k_m?logo=twitter&style=for-the-badge" alt="vyshnav_k_m" /></a> </p>
 
-- I’m currently learning **Flutter,Dart,Api,Hive**
+**Flutter,Dart,Api,Hive**
 
 - 💬 Ask me about **Android Flutter**
 
